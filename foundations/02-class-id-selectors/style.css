@@ -1,0 +1,35 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class-1{
+    background-color: pink;
+}
+
+.class-2{
+    background-color: pink;
+    color: blue;
+    font-size: 24px;
+}
+
+.class-3{
+    background-color: pink;
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#id-1{
+    color: blue;
+    font-size: 36px;
+}
+
+#id-2{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
